@@ -1,0 +1,54 @@
+.App {
+  height: 100vh;
+  position: relative;
+}
+
+.Header {
+  height: 56px;
+  /* background-color: aqua; */
+}
+
+.Body {
+  /* background-color: bisque; */
+  height: calc(100vh - 56px - 25px);
+ 
+  
+}
+
+.Menu {
+  
+  height: calc(100vh - 56px - 25px);
+  padding-left: 0px;
+  padding-right: 0px;
+  
+  /* background-color: cadetblue; */
+}
+
+.Content {
+  
+  height: calc(100vh - 56px - 25px);
+  /* background-color: burlywood; */
+  /* transition-duration: 1ms; */
+  padding-left: 0px;
+  padding-right: 0px;
+  
+}
+
+.ContentHeader{
+  
+  /* background-color: blueviolet; */
+  transition-property: all;
+}
+
+.ContentBody {
+  /* background-color: aqua; */
+  /* height: calc(100vh - 56px - 25px); */
+  /* background-color: chartreuse; */
+  transition-property: all;
+  
+}
+
+.Footer {
+  height: 25px;
+  /* background-color: brown; */
+}

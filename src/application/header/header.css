@@ -1,0 +1,13 @@
+.versionHeader{
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-top: 30px;
+    font-size: x-small;
+}
+.portalName{
+    padding-right: 0;
+}
+.baseName{
+    padding-left: 5px;
+    font-weight: bold;
+}
